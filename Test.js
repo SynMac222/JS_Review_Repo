@@ -1,5 +1,4 @@
 
-
 cwebTestFunction();
 
 function cwebTestFunction(){
@@ -14,6 +13,3 @@ function cwebTestFunction(){
     console.log('Name: ${name} Subject:${subject} Meeting time:${meetingTime}');
     console.log("the semester length is ${semesterLength}");
 }
-
-var getInstructor=()=>{
-    console.log("who is the instructor");
