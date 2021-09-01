@@ -10,9 +10,11 @@ function cwebTestFunction(){
     meetingTime ="4gitpm";
     semesterLength=16;
 
-    console.log('Name: ${name} Subject:${subject} Meeting time:${meetingTime}');
-    console.log("the semester length is ${semesterLength}");
+    console.log(`Name: ${name} Subject:${subject} Meeting time:${meetingTime}`);
+    console.log(`the semester length is ${semesterLength}`);
 }
 
 var newFunction=()=>{
-    console.log("who is instructor?");
+    var cwebInstructor ="R. Bentz";
+    console.log(`who is instructor?${cwebInstructor}`);
+}
