@@ -13,3 +13,6 @@ function cwebTestFunction(){
     console.log('Name: ${name} Subject:${subject} Meeting time:${meetingTime}');
     console.log("the semester length is ${semesterLength}");
 }
+
+var newFunction=()=>{
+    console.log("who is instructor?");
