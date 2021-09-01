@@ -1,6 +1,6 @@
 # This is our Github tutorial
 This is our Github tutorial
-
+**This is our Github tutorial**
 # Foobar
 This is a live editing a readme file
 
@@ -34,3 +34,5 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+### Contact
